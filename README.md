@@ -1,9 +1,4 @@
-.md
-+2
--2
 
-
-Original file line number	Diff line number	Diff line change
 @@ -1,4 +1,4 @@
 ### Hi there 👋
 ### Hi 👋, I'm Shaw
