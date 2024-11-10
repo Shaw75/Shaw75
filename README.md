@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Taiga</h1> -->
-<p> <img src="https://komarev.com/ghpvc/?username=Taiga74164&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga74164" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Shaw75&label=Profile%20views&color=0e75b6&style=flat" alt="Taiga74164" /> </p>
 
 <div align="center">
  <table>
