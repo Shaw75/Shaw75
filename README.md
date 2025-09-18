@@ -25,17 +25,17 @@ Github Stats
 <!--
 Contact Me
 -->
-<h3>
+<!--<h3>
   Contact Me:
 </h3>
 <div align="left">
- <a href="https://discord.com/users/593787701409611776">
-  <img src="https://skillicons.dev/icons?i=discord">
+ <a href="https://discord.com/users/">
+  <img src="https://skillicons.dev/icons?i=">
  </a>
- <a href="https://twitter.com/arikatsudesu">
-  <img src="https://skillicons.dev/icons?i=wechat">
+ <a href="https://twitter.com/">
+  <img src="https://skillicons.dev/icons?i=">
  </a>
-</div>
+</div>-->
 
 
 <h4>Most repos are private tbh</h4>
