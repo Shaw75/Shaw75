@@ -1,7 +1,7 @@
 <!--
 About Me
 -->
-  <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
+  <img align="right" src="https://lanyard.cnrad.dev/api/rustrover9527?animatedDecoration=false&animated=false&hideStatus=true&hideTag=true&hideProfile=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true" alt="Discord Status">
   
   - 20 year old university student.
   - Idk I make stuff.
