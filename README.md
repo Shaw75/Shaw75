@@ -1,7 +1,7 @@
 <!--
 About Me
 -->
-  <img align="right" src="https://lanyard.cnrad.dev/api/rustrover9527?animatedDecoration=false&animated=false&hideStatus=true&hideTag=true&hideProfile=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true" alt="Discord Status">
+ 
   
   - 20 year old university student.
   - Idk I make stuff.
@@ -40,3 +40,4 @@ Contact Me
 
 
 <h4>Most repos are private tbh</h4>
+<a href="https://discord.com/users/696988079352709140"><img src="https://lanyard.kyrie25.dev/api/696988079352709140?animatedDecoration=true&showDisplayName=false&theme=dark&showBanner=animated&imgStyle=square&gradient=E21B22-F71746-F23D92-CA3AB0-9138A7-69208E&hideDecoration=false&animated=true" alt="Discord" /></a>
