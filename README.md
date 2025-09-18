@@ -33,7 +33,7 @@ Contact Me
   <img src="https://skillicons.dev/icons?i=discord">
  </a>
  <a href="https://twitter.com/arikatsudesu">
-  <img src="https://skillicons.dev/icons?i=twitter">
+  <img src="https://skillicons.dev/icons?i=wechat">
  </a>
 </div>
 
