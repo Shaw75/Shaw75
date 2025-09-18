@@ -3,13 +3,12 @@ About Me
 -->
  
   
-  - 20 year old university student.
+  - university student.
   - Idk I make stuff.
-  - Likes to tinker with hardware specially microcontrollers.
   - Check out more projects from my organization [here](https://github.com/Shaw75).
  
 <div align="left">
- <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,js,ts,java,python,mongodb&theme=dark&perline=7"><br>
+ <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,python&theme=dark&perline=7"><br>
  and more...
 </div>
 
