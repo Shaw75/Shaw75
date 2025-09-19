@@ -9,14 +9,14 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/originalayaka" target="blank"><img align="center" src="https://shields.io/badge/twitter-@OriginalAyaka-8a52dd?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="originalayaka" />
+<!--<a href="https://twitter.com/originalayaka" target="blank"><img align="center" src="https://shields.io/badge/twitter-@OriginalAyaka-8a52dd?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="originalayaka" /> -->
 </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,react,nextjs,electron,tailwind,nodejs,express,mongo,postgres,prisma,redis,git,cloudflare&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,react,nextjs,electron,tailwind,nodejs,express,mongo,postgres,prisma,redis,git,cloudflare&perline=7" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <!-- useless tracking stuff -->
 
-![](https://hit.yhype.me/github/profile?user_id=92409239)
+![](https://hit.yhype.me/github/profile?user_id=125805296)
 
 <h4>Most repos are private tbh</h4>
 <a href="https://discord.com/users/1295549697473122339"><img src="https://lanyard.kyrie25.dev/api/1295549697473122339?animatedDecoration=true&showDisplayName=false&theme=dark&showBanner=animated&imgStyle=square&gradient=E21B22-F71746-F23D92-CA3AB0-9138A7-69208E&hideDecoration=false&animated=true" alt="Discord" /></a>
